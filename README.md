@@ -7,7 +7,13 @@
 ## Requirement
 - Wiondows 10
 - Arduino IDE 1.8.19
-- Raspberry Pi(Kernel version: 5.15)
+- Raspberry Pi 4 Model B (Kernel version: 5.15)
+- iPhone8 (iOS 16.6)
+
+## Material
+- 赤外線LED [OSI5FU5111C-40]
+- 炭素皮膜抵抗器 (47Ω x1)
+- 赤外線受光モジュール [PL-IRM0101-3]
 
 ## Usage
 1. Arduinoに赤外線LEDを接続する。
@@ -17,10 +23,13 @@
 
 家電を操作することができる。
 
+## Description
+### Arduino
+
+### Raspberry Pi
+
 ## Reference
 WebIPOi: https://webiopi.trouch.com/
 
-
 ## Author
 [school](https://www.okako.okayama-c.ed.jp/)
-
