@@ -1,10 +1,12 @@
 # IoT
+<!-- START doctoc -->
+<!-- END doctoc -->
 <p align="center">
   <img src="https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/c2344bafd8df5766f8d927c5dd5b5937052b1d66/image/IMG_0268.jpg", width="50%">
 </p>
 
 ## Overview
-ローカルでインターネットに接続されているスマートフォンから家電が操作できます。
+Raspberry Piと同じローカルのインターネットに接続されているスマートフォンで家電が操作できます。
 
 ## Requirement
 - Wiondows 10
