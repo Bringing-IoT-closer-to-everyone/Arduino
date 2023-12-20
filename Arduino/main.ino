@@ -8,6 +8,7 @@ int ir_data_main[] = {
 
 void setup() {
   pinMode(4, INPUT_PULLUP); // power
+  pinMode(5, INPUT_PULLUP); // mode
   pinMode(10, OUTPUT);   // IR output
   
   pinMode(13, OUTPUT);  // debug LED
