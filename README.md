@@ -1,7 +1,7 @@
 # Arduino
 Arduinoの赤外線発光用プログラムです
 
-![image](https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/a3272e568bb6cc0a5a4f4361edc8200e8c65b156/image/readmeIMG.png)
+![image](https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/c2344bafd8df5766f8d927c5dd5b5937052b1d66/image/IMG_0268.jpg)
 
 ## Overview
 
