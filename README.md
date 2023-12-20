@@ -13,9 +13,10 @@ Arduinoの赤外線発光用プログラムです
 
 ## Usage
 Raspberry PiでWebIOPiを起動し、Raspberry PiのIPアドレスであるX.X.X.X:8000にアクセスする。
+
 ![image](https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/69bd78c0cf5a5ef16920759cfb80e0a976b4bf83/readme_source/htmlview.png)
 
-## Features
+家電を操作することができる。
 
 ## Reference
 
