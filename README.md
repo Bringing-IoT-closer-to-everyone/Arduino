@@ -1,7 +1,7 @@
 # Arduino
 Arduinoの赤外線発光用プログラムです
 
-![image]()
+![image](image/IMG_0269.HEIC)
 
 ## Overview
 
@@ -15,6 +15,6 @@ Arduinoの赤外線発光用プログラムです
 
 ## Author
 
-[twitter](https://twitter.com/Kotabrog)
+[school](https://www.okako.okayama-c.ed.jp/)
 
 ## Licence
