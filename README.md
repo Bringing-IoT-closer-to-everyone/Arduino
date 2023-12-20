@@ -20,7 +20,7 @@
 2. Raspberry PiとArduinoを接続する。
 3. Raspberry PiでWebIOPiを起動し、Raspberry PiのIPアドレスであるX.X.X.X:8000にアクセスする。
 <p align="center">
-  <img src="https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/69bd78c0cf5a5ef16920759cfb80e0a976b4bf83/readme_source/htmlview.png" alt="arg" width="400">
+  <img src="https://github.com/Bringing-IoT-closer-to-everyone/Arduino/blob/69bd78c0cf5a5ef16920759cfb80e0a976b4bf83/readme_source/htmlview.png", width="50%">
 </p>
 
 家電を操作することができる。
