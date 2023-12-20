@@ -18,9 +18,9 @@
 家電を操作することができる。
 
 ## Reference
+WebIPOi: https://webiopi.trouch.com/
+
 
 ## Author
-
 [school](https://www.okako.okayama-c.ed.jp/)
 
-## Licence
