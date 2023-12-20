@@ -7,7 +7,7 @@
   - [使い方](#使い方)
   - [セッティング](#セッティング)
       - [Arduino](#Arduino)
-      - [Raspberry Pi](#Raspberry Pi)
+      - [Raspberry_Pi](#Raspberry_Pi)
   - [参考文献](#参考文献)
   - [著者について](#著者について)
 
@@ -44,7 +44,7 @@ Raspberry Piと同じローカルのインターネットに接続されてい�
 ## セッティング
 ### Arduino
 
-### Raspberry Pi
+### Raspberry_Pi
 
 ## 参考文献
 WebIPOi: https://webiopi.trouch.com/
