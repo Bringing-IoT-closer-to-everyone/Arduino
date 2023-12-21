@@ -39,6 +39,7 @@ void loop() {
   } else if ((digitalRead(5) == 1) && (f2 == 1)) {
     f2 = 0;
   }
+}
 
 void delayIR(int data_num) {
   int i = 0, f = 0;
