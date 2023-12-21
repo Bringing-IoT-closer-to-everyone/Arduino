@@ -1,4 +1,4 @@
-boolean f = 0, f1 = 0;
+boolean f = 0, f1 = 0, f2 = 0;
 int pulse;
 int ir_data_common[] = {3500, 1300, 350, 350, 350, 1300, 350, 1300, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 1300, 350, 1300, 350, 350, 350, 350, 350, 350, 350, 1300, 350, 350, 350, 1300, 350, 1300, 350, 1300, 350, 1300, 350, 1300, 350, 1300, 350, 1300, 350, 1300, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, NULL};
 int ir_data_main[] = {
@@ -7,8 +7,8 @@ int ir_data_main[] = {
 };
 
 void setup() {
-  pinMode(4, INPUT_PULLUP); // power
-  pinMode(5, INPUT_PULLUP); // mode
+  pinMode(4, INPUT_PULLUP); // Power
+  pinMode(5, INPUT_PULLUP); // Mode
   pinMode(10, OUTPUT);   // IR output
   
   pinMode(13, OUTPUT);  // debug LED
