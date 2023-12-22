@@ -52,4 +52,4 @@ WebIOPiにて環境を構築する。
 WebIPOi: https://webiopi.trouch.com/
 
 ## 著者について
-[学校](https://www.okako.okayama-c.ed.jp/)
+[岡山工業高等学校](https://www.okako.okayama-c.ed.jp/)情報技術科122期生
