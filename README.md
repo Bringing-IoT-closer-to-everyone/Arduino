@@ -49,7 +49,7 @@ ir_data_mainには、それ以外の部分を入れる。
 WebIOPiにて環境を構築する。
 
 ## 参考文献
-WebIPOi: https://webiopi.trouch.com/
+WebIOPi: https://webiopi.trouch.com/
 
 ## 著者について
 [岡山工業高等学校](https://www.okako.okayama-c.ed.jp/)情報技術科122期生
