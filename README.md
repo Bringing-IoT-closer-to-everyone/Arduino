@@ -42,9 +42,11 @@ Raspberry Piと同じローカルのインターネットに接続されてい�
 
 ## セッティング
 ### Arduino
-
+ir_data_commonに赤外線波形の共通部分を入れる。
+ir_data_mainには、それ以外の部分を入れる。
 
 ### Raspberry_Pi
+WebIOPiにて環境を構築する。
 
 ## 参考文献
 WebIPOi: https://webiopi.trouch.com/
