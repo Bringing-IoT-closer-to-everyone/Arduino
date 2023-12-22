@@ -25,9 +25,7 @@ void loop() {
   //Power switch
   if ((digitalRead(4) == 0) && (f1 == 0)) {
     f1 = 1;
-    digitalWrite(13, HIGH);
     delayIR(0);
-    digitalWrite(13, LOW);
   } else if ((digitalRead(4) == 1) && (f1 == 1)) {
     f1 = 0;
   }
